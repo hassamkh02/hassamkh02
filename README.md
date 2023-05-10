@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Hassam Khaliq Software Engineer | [![Profile Views](https://gpvc.arturio.dev/jankarikiduniya)](https://github.com/hassamkh02)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Hassam Khaliq Software Engineer(Web and Application Developer) | [![Profile Views](https://gpvc.arturio.dev/jankarikiduniya)](https://github.com/hassamkh02)
 
 <p align="center">
   <a href="https://github.com/hassamkh02"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
@@ -36,9 +36,9 @@ You can use the website to generate badges: https://shields.io/
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
   
-- 🚶‍ &nbsp; I live in : Pakistan 🇵🇰  <br>
-- 👀 I’m interested in ... 👉 **App Developing**
-- 🌱 I’m currently learning ... **C++, Python**
+- 🚶‍ &nbsp; I live in : UAE  <br>
+- 👀 I’m interested in ... 👉 **App and Web Developing**
+- 🌱 I’m currently learning ... *Python,And AI**
 - 💞️ My Carrier ... [GitHub](https://github.com/hassamkh02)
 - 📫 How to reach me i am lazzy...
 - ⚡️ Fun-Fact: Bachler;
